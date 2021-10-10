@@ -1,0 +1,43 @@
+.blog-container {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    margin: 0px;
+    min-width: 500px;
+    max-width: 975px;
+}
+
+.blog-title {
+    font-size: 120px;
+    font-weight: bold;
+    font-family: 'Bebas Neue', cursive;
+    margin: 0px;
+}
+
+.blog-description{
+    margin: 0px;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.blog-divider {
+    border-top: 2px solid black;
+    font-family: 'Roboto', sans-serif;
+}
+
+.blog-h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.blog-last-posts-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.blog-last-post {
+    margin: 0px 45px;
+}

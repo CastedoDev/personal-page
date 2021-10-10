@@ -1,0 +1,25 @@
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 0px;
+}
+
+.header-title {
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Bebas Neue', cursive;
+    margin: 0px 50px 0px 25px;
+}
+
+.header-nav {
+    margin-left: 50px;
+}
+
+.header-link {
+    margin: 0px 25px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}

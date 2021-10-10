@@ -1,0 +1,27 @@
+.about-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    margin: 0px;
+    min-width: 500px;
+    max-width: 975px;
+}
+
+.about-title {
+    font-size: 120px;
+    font-weight: bold;
+    font-family: 'Bebas Neue', cursive;
+    margin: 0px;
+}
+
+.about-description{
+    margin: 0px 0px 20px 0px;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.about-divider {
+    border-top: 2px solid black;
+    font-family: 'Roboto', sans-serif;
+}

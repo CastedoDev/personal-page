@@ -1,0 +1,42 @@
+.home_container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    min-width: 975px;
+    margin: 0;
+}
+
+.about-paragraph{
+    font-size: 120px;
+    font-weight: bold;
+    font-family: 'Bebas Neue', cursive;
+    margin: 0;
+}
+
+.home_buttons_container {
+    display: flex;
+    justify-content: center;
+    padding: 25px 50px;
+}
+
+.home_button {
+    margin: 0px 30px;
+    border-color: black;
+    border-radius: 7px;
+    padding: 5px 20px;
+    font-size: 20px;
+
+}
+
+.home_separator {
+    border-top: 2px solid black;
+    font-family: 'Roboto', sans-serif;
+}
+
+.Button {
+    color: black;
+    border-color: black;
+}
+
+

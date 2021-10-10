@@ -1,0 +1,31 @@
+.project-card-container {
+    border: 2px solid black;
+    border-radius: 7px;
+    margin: 10px 15px;
+    padding: 10px;
+    min-width: 150px;
+    flex: 1;
+    display: flex;
+    flex-flow: column;
+}
+
+.project-name {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Bebas Neue', cursive;
+    margin: 5px;
+}
+
+.project-card-icon{
+    height: 40px;
+    width: 40px;
+    margin: 0px 5px;
+    align-items: center;
+    justify-content: center
+;
+}
+
+.project-card-description {
+    flex: 1 1 auto;
+    font-family: 'Roboto', sans-serif;
+}
